@@ -7,7 +7,7 @@ require 'directors_database'
 # { directorOne => allTheMoneyTheyMade, ... }
 
 def directors_totals(nds)
-  result = {:name=>"Test Director",:movies=>[]}
+    binding.pry
   
  
 end
