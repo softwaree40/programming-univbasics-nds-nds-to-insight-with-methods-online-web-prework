@@ -15,7 +15,7 @@ end
 # using director_data as input
 def gross_for_director(director_data)
     total_result =0
-    director_data[:worldwide_gross]
+    director_data
       puts k
       binding.pry
     end
