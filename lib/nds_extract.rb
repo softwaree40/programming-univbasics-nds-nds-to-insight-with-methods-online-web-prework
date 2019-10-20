@@ -15,7 +15,7 @@ end
 # using director_data as input
 def gross_for_director(director_data)
     total_result =0
-    director_data.each do |num|
+    director_data.each do |k,v|
       binding.pry
     end
 end
